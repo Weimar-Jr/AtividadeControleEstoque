@@ -1,1 +1,1 @@
-# ControleEstoque
+Minha segunda atividade que o chat gpt me passa, infelismente eu ainda tive que pedir ajuda dele em algumas partes do codigo para saber o porque determinada coisa não estava funcionando direito, as outras duvidas eu pesquisei no google mesmo.
